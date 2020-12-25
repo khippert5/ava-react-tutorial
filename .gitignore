@@ -25,3 +25,5 @@ dist/*.js
 
 local.log
 tests_output
+
+.history/
